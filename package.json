@@ -1,0 +1,10 @@
+{
+  "name": "shane",
+  "version": "1.0.0",
+  "bin": {
+    "shane": "index.js"
+  },
+  "dependencies": {
+    "clear-any-console": "^1.16.4"
+  }
+}
