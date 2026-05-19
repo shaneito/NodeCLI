@@ -1,7 +1,18 @@
 #!/usr/bin/env node
-const clearConsole = require('clear-any-console');
+import pkgJSON from './package.json' with { type: 'json' };
+import welcome from 'cli-welcome';
 
-clearConsole();
+// Use it.
+welcome({
+  title: pkgJSON.name,
+  tagLine: `Howdy, nice to meet ya'll!!!`,
+  description: pkgJSON.description,
+  version: pkgJSON.version,
+  bgColor: `#FADC00`,
+  color: `#000000`,
+  bold: true,
+  clear: false,
+});
 
 console.log(`
 Shaneito

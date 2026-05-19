@@ -1,10 +1,12 @@
 {
   "name": "shaneito",
-  "version": "1.1.0",
+  "version": "2.0.0",
+  "description": "Get to know Shaneito via `npx shaneito`.",
   "bin": {
     "shaneito": "index.js"
   },
+  "type": "module",
   "dependencies": {
-    "clear-any-console": "^1.16.4"
+    "cli-welcome": "^3.0.2"
   }
 }
