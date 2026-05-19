@@ -12,5 +12,11 @@
   "keywords": [
     "Shane Patel",
     "Shaneito"
-  ]
+  ],
+  "licence": "MIT",
+  "main": "index.js",
+  "repository": "shaneito/NodeCLI",
+  "author": {
+    "name": "Shane Patel"
+  }
 }
