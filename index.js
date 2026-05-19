@@ -1,9 +1,11 @@
 #!/usr/bin/env node
+const clearConsole = require('clear-any-console');
+
+clearConsole();
 
 console.log(`
-Shane Patel
+Shaneito
 
-A hobbyist that is happy working in both Linux and MacOS.
 Enjoys trying out the latest software and tools be it Desktop Apps or the command line.
 Loves coding, learning and creating new things.
 Currently learning JavaScript and Shell scripting to improve my workflow. If

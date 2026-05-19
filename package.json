@@ -2,7 +2,7 @@
   "name": "shaneito",
   "version": "1.0.1",
   "bin": {
-    "shane": "index.js"
+    "shaneito": "index.js"
   },
   "dependencies": {
     "clear-any-console": "^1.16.4"
