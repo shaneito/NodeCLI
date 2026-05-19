@@ -8,5 +8,9 @@
   "type": "module",
   "dependencies": {
     "cli-welcome": "^3.0.2"
-  }
+  },
+  "keywords": [
+    "Shane Patel",
+    "Shaneito"
+  ]
 }
