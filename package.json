@@ -1,6 +1,6 @@
 {
   "name": "shaneito",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Get to know Shaneito via `npx shaneito`.",
   "bin": {
     "shaneito": "index.js"
